@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Data
+data/
+
+# Other
+.DS_Store

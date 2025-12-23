@@ -1,0 +1,14 @@
+# """Configuration: general project settings (paths, model weights, thresholds, and external services)."""
+
+paths:
+  raw: data/01_raw
+  intermediate: data/02_intermediate
+  primary: data/03_primary
+model:
+  yolo_weights: models/angkot.pt
+thresholds:
+  detection_confidence: 0.4
+  llm_verification_confidence: 0.7
+supabase:
+  url: ""
+  key: ""

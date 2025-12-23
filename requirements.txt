@@ -1,0 +1,9 @@
+numpy
+opencv-python
+torch
+ultralytics
+pyyaml
+python-dotenv
+requests
+supabase
+openai
